@@ -1,0 +1,14 @@
+C:\Users\chenf\source\repos\B24 Ex04 Chen 315098681 Yuval 206667735\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe.config
+C:\Users\chenf\source\repos\B24 Ex04 Chen 315098681 Yuval 206667735\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe
+C:\Users\chenf\source\repos\B24 Ex04 Chen 315098681 Yuval 206667735\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.pdb
+C:\Users\chenf\source\repos\B24 Ex04 Chen 315098681 Yuval 206667735\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.AssemblyReference.cache
+C:\Users\chenf\source\repos\B24 Ex04 Chen 315098681 Yuval 206667735\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CoreCompileInputs.cache
+C:\Users\chenf\source\repos\B24 Ex04 Chen 315098681 Yuval 206667735\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.exe
+C:\Users\chenf\source\repos\B24 Ex04 Chen 315098681 Yuval 206667735\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.pdb
+C:\Users\chenf\source\repos\B24 Ex04 Chen 315098681 Yuval 206667735\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Events.dll
+C:\Users\chenf\source\repos\B24 Ex04 Chen 315098681 Yuval 206667735\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\chenf\source\repos\B24 Ex04 Chen 315098681 Yuval 206667735\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Events.pdb
+C:\Users\chenf\source\repos\B24 Ex04 Chen 315098681 Yuval 206667735\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Events.dll.config
+C:\Users\chenf\source\repos\B24 Ex04 Chen 315098681 Yuval 206667735\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\chenf\source\repos\B24 Ex04 Chen 315098681 Yuval 206667735\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\chenf\source\repos\B24 Ex04 Chen 315098681 Yuval 206667735\Ex04.Menus.Test\obj\Debug\Ex04.Men.94AED04F.Up2Date
